@@ -3853,3 +3853,11 @@ body.is-preload #banner p {
 html {
     scroll-behavior: smooth;
 }
+
+.defaultView {
+    display: none;
+}
+
+.changeDisplay {
+    display: block;
+}
